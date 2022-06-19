@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: MorganHouston
   productName: CreativeCore_Prototypes
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -602,6 +602,7 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
     1: READY_PLAYER_ME
+    13: READY_PLAYER_ME
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:

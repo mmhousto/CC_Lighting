@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Aarons Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/CreativeCore_Lighting/Scenes/Study.unity
+    guid: e2baba1fc85f9314fbea85e790cf9d5f
   m_configObjects: {}
